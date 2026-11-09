@@ -8,7 +8,7 @@
 
 ## Supported versions
 
-Aegyx is a single-line, actively developed project (pre-1.0, no published releases or version tags). Only the latest commit on the [`main`](https://github.com/Alexandre-git-SDV/Aegyx/tree/main) branch is supported with security fixes.
+Aegyx is a single-line, actively developed project (pre-1.0, no published releases or version tags). Only the latest commit on the [`main`](https://github.com/Alexandre-Gouraud/Aegyx/tree/main) branch is supported with security fixes.
 
 | Version | Supported |
 |---------|-----------|
@@ -22,8 +22,8 @@ Please **do not** open a public GitHub issue for security vulnerabilities.
 
 Instead, report it privately using one of these channels:
 
-- **Preferred**: [GitHub Security Advisories](https://github.com/Alexandre-git-SDV/Aegyx/security/advisories/new) — private disclosure directly on this repository.
-- Alternatively, open a regular [issue](https://github.com/Alexandre-git-SDV/Aegyx/issues) without sensitive details and ask to be contacted privately.
+- **Preferred**: [GitHub Security Advisories](https://github.com/Alexandre-Gouraud/Aegyx/security/advisories/new) — private disclosure directly on this repository.
+- Alternatively, open a regular [issue](https://github.com/Alexandre-Gouraud/Aegyx/issues) without sensitive details and ask to be contacted privately.
 
 When reporting, please include:
 
@@ -56,7 +56,7 @@ Aegyx is a Rust command-line password manager, currently in early, pre-1.0 devel
 
 ## Versions supportées
 
-Aegyx est un projet mono-branche en développement actif (pré-1.0, sans release ni tag de version publiés). Seul le dernier commit de la branche [`main`](https://github.com/Alexandre-git-SDV/Aegyx/tree/main) est pris en charge pour les correctifs de sécurité.
+Aegyx est un projet mono-branche en développement actif (pré-1.0, sans release ni tag de version publiés). Seul le dernier commit de la branche [`main`](https://github.com/Alexandre-Gouraud/Aegyx/tree/main) est pris en charge pour les correctifs de sécurité.
 
 | Version | Supportée |
 |---------|-----------|
@@ -70,8 +70,8 @@ Merci de **ne pas** ouvrir d'issue GitHub publique pour signaler une vulnérabil
 
 Utilisez plutôt l'un de ces canaux privés :
 
-- **Préféré** : [GitHub Security Advisories](https://github.com/Alexandre-git-SDV/Aegyx/security/advisories/new) — divulgation privée directement sur ce dépôt.
-- Sinon, ouvrez une [issue](https://github.com/Alexandre-git-SDV/Aegyx/issues) classique sans détails sensibles en demandant à être contacté en privé.
+- **Préféré** : [GitHub Security Advisories](https://github.com/Alexandre-Gouraud/Aegyx/security/advisories/new) — divulgation privée directement sur ce dépôt.
+- Sinon, ouvrez une [issue](https://github.com/Alexandre-Gouraud/Aegyx/issues) classique sans détails sensibles en demandant à être contacté en privé.
 
 Merci d'inclure dans votre signalement :
 

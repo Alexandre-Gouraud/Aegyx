@@ -1,7 +1,7 @@
 <!--
 Thanks for contributing to Aegyx! Please fill in this template.
 Make sure you've read the Contributing Guide before opening this PR:
-https://github.com/Alexandre-git-SDV/Aegyx/blob/development/CONTRIBUTING.md
+https://github.com/Alexandre-Gouraud/Aegyx/blob/development/CONTRIBUTING.md
 -->
 
 ## Description
